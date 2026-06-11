@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-corporate-insurance
+description: "BIAN Service Domain: Corporate Insurance (Administer pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Corporate Services"
+  bian/asset-type: "Insurance Policy"
+  bian/control-record: "Insurance Policy Administrative Plan"
